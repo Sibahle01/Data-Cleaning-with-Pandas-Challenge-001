@@ -1,0 +1,16 @@
+customer_id,name,email,age,phone,purchase_amount,date_of_purchase
+101,Sibusiso Dlamini,sibusiso@email.com ,34,821234567,250,6/15/2023
+102,Thando Mthembu,,,734567890,,7/20/2023
+103,,sam.smith@email.com,29,617891234,,8/10/2023
+104,Noluthando Zulu,noluthando@email.com,45,,300,6/25/2023
+105,John Doe,john.doe@email.com,34,821234567,250,6/15/2023
+106,Emily Zhang,,28,742345678,450,7/5/2023
+107,Michael Brown,michael.brown@email.com,,835678901,600,8/12/2023
+108,Nomvula Nkosi,nomvula@email.com,37,768901234,200,9/1/2023
+109,Daniel Lee,daniel@email.com,40,,,6/30/2023
+110,Chris Johnson,chris@email.com,,6789012345,100,7/18/2023
+111,Olivia Martinez,,32,7896541230,700,7/22/2023
+102,Sibahle Sithole,sibahlesithole@email.com,,,500,7/20/2023
+113,Sophia Taylor,sophia@email.com,26,,150,9/10/2023
+114,,benjamin@email.com,31,734567890,,9/15/2023
+115,Emma Harris,emma@email.com,,679638527,,10/1/2023
