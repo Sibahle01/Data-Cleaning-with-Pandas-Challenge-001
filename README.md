@@ -1,6 +1,6 @@
 # Data-Cleaning-with-Pandas-Challenge-001
 
-#🏆 Daily Data Science Challenge #001: Data Cleaning with Pandas
+🏆 Daily Data Science Challenge #001: Data Cleaning with Pandas
 Welcome to the first Daily Data Science Challenge! This challenge focuses on an essential skill for every data scientist: data cleaning using pandas.
 
 🔥 Challenge Description
